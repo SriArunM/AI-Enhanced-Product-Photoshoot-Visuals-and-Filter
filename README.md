@@ -1,4 +1,7 @@
 # AI-Enhanced Product Photoshoot Visuals and Filter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Nxmb2y9LbkWA_m5g2Ap3tTqMkw1bmsgw?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TtsGEHdBTUklmRoXVkgDoLVHYnVdYImy?usp=sharing)
+
 ## Overview
 This project aims to develop an AI solution to enhance e-commerce product presentation by generating stunning product photoshoot visuals and implementing a filter to identify specific products within a given list of objects. The solution leverages Grounding DINO, YOLO models for zero-shot object detection, SAM model for segmentation and masking, and Stable Diffusion (inpainting) for generating visually appealing images.
 
